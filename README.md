@@ -21,14 +21,11 @@ Respondents are grouped into Nigeria's six geopolitical zones for analysis:
 | South South | Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers |
 | South West | Ekiti, Lagos, Ogun, Ondo, Osun, Oyo |
 
-> **Note:** Confirm this table matches the exact zone mapping used in your dataset before publishing — adjust if your project uses a different classification.
 
 ## Dataset
 - **Sample size:** 14,000 respondents
 - **Unit of analysis:** Individual survey respondent, aggregated to state and zone level
 - **Coverage:** All 36 states + FCT
-- **Format:** [CSV / SPSS / Excel — *specify actual format*]
-- **Key variables:** [e.g., state, zone, revenue source, collection method, satisfaction score, compliance rate — *update with your actual variable names*]
 
 Data files are stored in the `data/` directory:
 ```
