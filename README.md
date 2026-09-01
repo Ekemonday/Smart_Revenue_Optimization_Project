@@ -27,13 +27,6 @@ Respondents are grouped into Nigeria's six geopolitical zones for analysis:
 - **Unit of analysis:** Individual survey respondent, aggregated to state and zone level
 - **Coverage:** All 36 states + FCT
 
-Data files are stored in the `data/` directory:
-```
-data/
-├── raw/            # Original, unmodified survey export
-├── cleaned/        # Cleaned and validated dataset used for analysis
-└── codebook.xlsx   # Variable definitions and coding scheme
-```
 
 ## Methodology
 Analysis was conducted in **R**, following this general workflow:
