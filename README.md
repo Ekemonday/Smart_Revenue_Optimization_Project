@@ -1,7 +1,7 @@
 # Smart Revenue Optimisation Survey — Nigeria (36 States + FCT)
 
 ## Project Overview
-This repository contains the survey dataset, R analysis scripts, and outputs for the **Smart Revenue Optimisation Project**, a nationwide research effort assessing revenue generation, collection efficiency, and optimisation opportunities across Nigeria. The study covers **14,000 respondents** drawn from all **36 states** and the **Federal Capital Territory (FCT)**, with analysis conducted at the **geopolitical zone level**.
+This repository contains the,\ R analysis scripts for the **Smart Revenue Optimisation Project**, a nationwide research effort assessing revenue generation, collection efficiency, and optimisation opportunities across Nigeria. The study covers **14,000 respondents** drawn from all **36 states** and the **Federal Capital Territory (FCT)**, with analysis conducted at the **geopolitical zone level**.
 
 ## Objectives
 - Assess current revenue collection practices and gaps across Nigeria's states and FCT.
@@ -21,12 +21,10 @@ Respondents are grouped into Nigeria's six geopolitical zones for analysis:
 | South South | Akwa Ibom, Bayelsa, Cross River, Delta, Edo, Rivers |
 | South West | Ekiti, Lagos, Ogun, Ondo, Osun, Oyo |
 
-
 ## Dataset
 - **Sample size:** 14,000 respondents
 - **Unit of analysis:** Individual survey respondent, aggregated to state and zone level
 - **Coverage:** All 36 states + FCT
-
 
 ## Methodology
 Analysis was conducted in **R**, following this general workflow:
